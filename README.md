@@ -84,6 +84,6 @@ Biblioteca/
 
 ---
 
-## ✒️ Autor
+## Autor
 
 * **Bryan Daniel Contreras Martínez** - *Desarrollo e Implementación* - UTJ
